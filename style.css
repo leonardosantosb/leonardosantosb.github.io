@@ -1,0 +1,141 @@
+.minha-imagem {
+      position: absolute;   
+      width: 500px;  
+      top: 15%;
+
+}
+.meunome {
+    position: relative;
+    left: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5% 30% ;
+    width: 36%;
+    background-color: rgb(114, 114, 128);
+    color: #ffffff;
+    font-size: 270%;
+    border-radius: 6%;
+}
+.descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 35%;
+    left: 34%;
+    width: 35%;
+    color: white;
+    font-size: 150%;
+  
+    
+}
+
+body {
+    background-color: #000000 ;
+}
+
+.links {
+    position: absolute;
+    top: 100%;
+    left: 42%;    
+}
+
+.titulo-soft {
+    position: absolute;
+    top: 46%;
+    left: 73%;
+    color: white;
+    font-size: 250%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.habilidades {
+    background-color: #495057;
+    position: absolute;
+    top: 60%;
+    left: 60%;   
+    color: white;
+    font-size: 140%;
+}
+
+.titulo-hard {
+    position: absolute;
+    font-size: 250%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    top: 77%;
+    left: 12%;
+
+}
+
+.hab1 {
+    position: absolute;
+    width: 5%;
+    top: 90%;
+    border-radius: 15%;
+    left: 5%;
+
+}
+.hab2 {
+    position: absolute;
+    width: 7%;
+    top: 88%;
+    border-radius: 15%;
+    left: 15%;
+}
+.hab3 {
+    position: absolute;
+    width: 5.5%;
+    top: 90%;
+    border-radius: 15%;
+    left: 27%;
+    background-color: white;
+}
+.hab4 {
+    position: absolute;
+    width: 5.5%;
+    top: 110%;
+    border-radius: 15%;
+    left: 22%;
+    background-color: white;
+}
+.hab5 {
+    position: absolute;
+    width: 9%;
+    top: 110%;
+    border-radius: 15%;
+    left: 8%;
+    background-color: white;
+}
+
+.titulo-redes {
+    position: absolute;
+    color: white;
+    left: 66%;
+    top: 85%;
+    font-size: 250%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.link1:hover, .link2:hover, .link3:hover {
+    background-color: #495057;
+    border-radius: 10%;
+}
+
+.link1 {
+   position: absolute;
+   width: 5%;
+   left: 60%;
+   top: 100%;
+}
+.link2 {
+    position: absolute;
+   width: 5%;
+   left: 68%;
+   top: 100%;
+}
+.link3 {
+    position: absolute;
+   width: 5%;
+   left: 76%;
+   top: 100%;
+   background-color: white;
+}
+
